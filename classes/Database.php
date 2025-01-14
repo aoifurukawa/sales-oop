@@ -1,6 +1,6 @@
 <?php
 
-// this is a test for our second commit
+// this is a test for our second commit  this is my third cmment
 
 class Database {
     private $server_name = "localhost";
